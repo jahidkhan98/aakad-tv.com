@@ -1,5 +1,5 @@
-# Object file
+# media file
 *.o
 
 # Ada Library Information
-*.ali
+*.ali all media file
